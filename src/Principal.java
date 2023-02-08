@@ -5,13 +5,11 @@ public class Principal {
 
         System.out.println("Bienvenidos a la clase de CP3");
 
-
-
-
+        int a;
+        int b;
 
 
     }
-
 
 
 }
