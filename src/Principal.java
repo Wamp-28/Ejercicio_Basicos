@@ -5,9 +5,10 @@ public class Principal {
 
         System.out.println("Bienvenidos a la clase de CP3");
 
-        int a;
-        int b;
+        int a=5;
+        int b=6;
 
+        System.out.println("LA SUMA ES: "+ (a+b));
 
     }
 
